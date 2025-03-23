@@ -1,0 +1,31 @@
+# Node modules and package managers
+node_modules/
+.pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+npm-debug.log*
+
+# Next\.js build output
+.next/
+out/
+
+# Production
+build/
+
+# Local environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Log files
+logs
+*.log
+
+# OS files
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
