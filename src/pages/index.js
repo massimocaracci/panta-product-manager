@@ -1,4 +1,4 @@
-// src/pages/index.js
+import React from 'react';
 import ProductTable from '../components/ProductTable/ProductTable';
 
 export default function Home() {
